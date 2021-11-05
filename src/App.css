@@ -1,6 +1,16 @@
-* {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-  font-family: "Encode Sans Expanded", sans-serif;
+.formSection {
+  margin-top: 30px;
+}
+
+.formSection p {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.dashboardSection {
+  margin-top: 50px;
+}
+
+.reviewsWrapper {
+  margin-top: 50px;
 }
